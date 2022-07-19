@@ -1,0 +1,4 @@
+Personnes ayant contribué à la création de Java6Baston :
+  - Jeremy Lao
+  - Charlotte Marion
+  - Pierre-Henri DUpont
